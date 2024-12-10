@@ -10,13 +10,12 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://imgur.com/a/IMDG2yG">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto DevLinks" src="https://imgur.com/a/IMDG2yG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
