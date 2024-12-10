@@ -5,7 +5,6 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -14,9 +13,7 @@
 
 <br>
 
-<p align="center">
-  <img alt="Projeto DevLinks" src="https://imgur.com/a/IMDG2yG" width="100%">
-</p>
+![Captura de tela 2024-12-10 140413](https://github.com/user-attachments/assets/bd6ad7ef-ddbf-4d8c-96fc-b20b197b02af)
 
 ## 🚀 Tecnologias
 
